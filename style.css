@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Cooper Bold Italic BT";
+  src: url("/CooperBoldItalicBT.ttf") format('truetype');
+}
+
+body {
+  background-color: Salmon;
+  font-family: "Cooper Bold Italic BT", serif; 
+}
