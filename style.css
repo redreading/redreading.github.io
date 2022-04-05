@@ -15,9 +15,10 @@ h1, h2 {
 
 .container {
   position: relative;
-  height: 500px;
-  width: 500px;
-  max-width: 100vw;
+  width: 100vw;
+  height: 100vw;
+  max-width: 500px;
+  max-height: 500px;
   background-image: url("communards.png");
   background-repeat: no-repeat;
   background-position: center;
