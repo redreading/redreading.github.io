@@ -13,6 +13,16 @@ h1, h2 {
   color: Beige;
 }
 
+a:link, a:visited {
+  background-color: Black;
+  color: Red;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  color: hotpink;
+}
+
 .container {
   position: relative;
   width: 95vw;
