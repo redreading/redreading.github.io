@@ -19,7 +19,21 @@ h1, h2 {
   height: 95vw;
   max-width: 500px;
   max-height: 500px;
-  background-image: url("communards.png");
+  background-image: url("communards.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container2 {
+  position: relative;
+  width: 95vw;
+  height: 95vw;
+  max-width: 500px;
+  max-height: 500px;
+  background-image: url("shanghai1967.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
