@@ -27,12 +27,6 @@ h1, h2 {
   margin-right: auto;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
-}
-
 .text-block {
   margin: auto;
   position: absolute;
@@ -40,4 +34,5 @@ img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  width: 85%;
 }
