@@ -14,5 +14,7 @@ h1, h2 {
 }
 
 img {
-  display: inline-block;
+  max-width:100%;
+  width: auto;
+  height: auto;
 }
