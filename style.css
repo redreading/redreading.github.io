@@ -19,17 +19,16 @@ p {
 
 .button {
   position: absolute;
+  font-family: "Cooper Bold Italic BT";
+  font-size: .8em;
   border: none;
   color: hotpink;
-  width: 85%;
   text-align: center;
-  text-decoration: none;
   transition-duration: 0.4s;
   cursor: pointer;
   background-color: DarkRed; 
   color: Black; 
   border: 1em solid Black;
-  margin: auto;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
