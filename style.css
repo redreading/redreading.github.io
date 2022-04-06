@@ -13,6 +13,10 @@ h1, h2 {
   color: Beige;
 }
 
+p {
+  font-family: 'Times New Roman', serif;
+}  
+  
 a:link, a:visited {
   background-color: Black;
   color: Red;
