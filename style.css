@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2 {
-  color: Beige;
+  color: BlanchedAlmond;
 }
 
 p {
@@ -23,13 +23,12 @@ p {
   position: absolute;
   width: 80%;
   max-width: 20em;
-  padding: 1.5em;
+  padding: .9em;
   border: none;
-  color: hotpink;
   text-align: center;
   transition-duration: 0.4s;
   cursor: pointer;
-  background-color: Beige; 
+  background-color: FloralWhite; 
   color: Black; 
   border: .5em solid Black;
   top: 50%;
