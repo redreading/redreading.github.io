@@ -16,10 +16,35 @@ h1, h2 {
 p {
   font-family: 'Times New Roman', serif;
 }  
-  
-a:link, a:visited {
+
+.button {
+  border: none;
+  color: hotpink;
+  height: 5em;
+  width: 5em;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: DarkRed; 
+  color: Black; 
+  border: 1em solid Black;
+}
+
+.button:hover {
   background-color: Black;
+  color: Hotpink;
+}
+
+
+a {
   color: Red;
+  background-color: Black;
+}
+
+a:link, a:visited {
+  color: Red;
+  background-color: Black;
 }
 
 a:hover, a:active {
