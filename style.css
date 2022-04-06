@@ -18,17 +18,18 @@ p {
 }  
 
 .button {
-  position: absolute;
   font-family: "Cooper Bold Italic BT";
   font-size: .8em;
+  position: absolute;
+  padding: 1.5em;
   border: none;
   color: hotpink;
   text-align: center;
   transition-duration: 0.4s;
   cursor: pointer;
-  background-color: DarkRed; 
+  background-color: White; 
   color: Black; 
-  border: 1em solid Black;
+  border: .5em solid Black;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -36,9 +37,8 @@ p {
 
 .button:hover {
   background-color: Black;
-  color: Hotpink;
+  color: Salmon;
 }
-
 
 a {
   color: Red;
