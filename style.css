@@ -7,6 +7,8 @@ body {
   background-color: Salmon;
   font-family: "Cooper Bold Italic BT", serif; 
   text-align: center;
+  max-width: 500px;
+  margin: auto;
 }
 
 h1, h2 {
@@ -16,6 +18,12 @@ h1, h2 {
 p {
   font-family: 'Times New Roman', serif;
 }  
+
+ul {
+  font-family: 'Times New Roman', serif;
+  display: inline-block;
+  text-align: left;
+}
 
 .button {
   font-family: "Cooper Bold Italic BT";
@@ -42,19 +50,13 @@ p {
   color: Salmon;
 }
 
-a {
-  color: Red;
-  background-color: Black;
-}
-
 a:link, a:visited {
-  color: Red;
-  background-color: Black;
+  color: Blue;
 }
 
 a:hover, a:active {
-  background-color: Grey;
-  color: hotpink;
+  background-color: Yellow;
+  color: Red;
 }
 
 .container {
