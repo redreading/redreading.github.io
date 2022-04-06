@@ -19,7 +19,7 @@ p {
   font-family: 'Times New Roman', serif;
 }  
 
-ul {
+ul, ol {
   font-family: 'Times New Roman', serif;
   display: inline-block;
   text-align: left;
