@@ -19,6 +19,10 @@ p {
   font-family: 'Times New Roman', serif;
 }  
 
+img {
+  max-width: 500px; 
+}
+
 ul, ol {
   font-family: 'Times New Roman', serif;
   display: inline-block;
