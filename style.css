@@ -20,8 +20,12 @@ p {
 }  
 
 img {
-  max-width: 500px; 
+  max-width: 100%; 
 }
+
+img:hover {
+  filter: hue-rotate(-20deg);
+} 
 
 ul, ol {
   font-family: 'Times New Roman', serif;
